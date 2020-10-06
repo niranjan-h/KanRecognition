@@ -30,7 +30,3 @@ Kannada is being chosen as not much research was done prior with a whole documen
 This project has also performed a comparative analysis of two supervised (k-Nearest neighbors and Support Vector Machines) and two unsupervised models (Inception V3 and Convoluted Neural Networks).
 
 A web app provides the user interface. A handwritten document is given as input and the corresponding text as digital text is presented as an output in the web apps display
-
-### DATASET
-
-The dataset used is the Chars74K[http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/] dataset. It consists of a collection of images that belong to 657+ classes. Each class consists of 25 handwritten characters. Since a Deep Learning approach has also been used in this paper, the dataset needed to be expanded. This was done by using various augmentation techniques.
