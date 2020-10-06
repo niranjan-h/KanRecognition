@@ -1,6 +1,3 @@
-#### The paper describing this approach has been presented at 2018 3rd IEEE INTERNATIONAL CONFERENCE ON RECENT TRENDS ON ELECTRONICS, INFORMATION & COMMUNICATION TECHNOLOGY. 
-Link to Publication - https://ieeexplore.ieee.org/document/9012531
-
 ## INSTALLATION
 
 You need to have Python 3.x installed
@@ -151,9 +148,3 @@ Check  ` web_app/hwrkannada\how_to_run.txt`
 | k-NN| 68.53%|
 | CNN| 99.84%|
 | Inception v3|75.36%|
-
-### AUTHORS
-- Subhrajyoti Sen
-- Shreya V Prabhu
-- Steve Jerold
-- Pradeep JS
